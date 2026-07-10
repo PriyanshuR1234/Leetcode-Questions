@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
