@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
