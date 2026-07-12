@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
