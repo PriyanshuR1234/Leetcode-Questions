@@ -1,21 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-           std::unordered_map<int, int> numMap;
-        
-        for (int i = 0; i < nums.size(); ++i) {
-            int complement = target - nums[i];
+        unordered_map<int,int>m;
+        for(int i=0;i<nums.size();i++)
+        {
+             int x = target - nums[i];
             
             // Check if the complement already exists in the map
-            if (numMap.find(complement) != numMap.end()) {
-                return {numMap[complement], i};
+            if (m.find(x) != m.end()) {
+                return {m[x], i};
             }
             
-            // If not found, store the current number and its index
-            numMap[nums[i]] = i;
+            // Store the current number and its index after checking
+            m[nums[i]] = i;
         }
-        
-        // Return an empty vector if no solution is found (though LeetCode guarantees one)
-        return {};
+        return {-1,-1};
     }
 };
