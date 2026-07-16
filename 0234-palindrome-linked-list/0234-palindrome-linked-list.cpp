@@ -12,6 +12,12 @@ class Solution {
 public:
 ListNode * reverse(ListNode * list)
 {
+    //it also can be implemented using stack first
+    //fill the stack with whole then pop one by one and check form starting (more space complexity of approx o(n) and also more time complexity)
+    
+    
+    
+    //second optimized approach this of o(n)
     if(list==NULL || list->next==NULL)return list;
     ListNode * curr=list;
     ListNode * prev=NULL;
