@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0061-rotate-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
