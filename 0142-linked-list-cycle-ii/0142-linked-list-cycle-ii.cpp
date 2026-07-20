@@ -9,16 +9,43 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        map<ListNode *, int>m;
-        ListNode* temp=head;
-        while(temp!=NULL)
+
+        // //more time complexity 
+        // map<ListNode *, int>m;
+        // ListNode* temp=head;
+        // while(temp!=NULL)
+        // {
+        //     if(m.find(temp) != m.end())
+        //     {
+        //         return temp;
+        //     }
+        //     m[temp]=1;
+        //     temp=temp->next;
+        // }
+        // return NULL;
+
+        // optimized
+        ListNode * slow =head, *fast=head;
+        bool loop=false;
+        while(fast!=NULL && fast->next!=NULL)
         {
-            if(m.find(temp) != m.end())
+            fast=fast->next->next;
+            slow=slow->next;
+            if(fast==slow)
             {
-                return temp;
+                loop=true;
+                break;
             }
-            m[temp]=1;
-            temp=temp->next;
+        }
+        slow=head;
+        if(loop==true)
+        {
+            while(slow!=fast)
+            {
+                slow=slow->next;
+                fast=fast->next;
+            }
+            return fast;
         }
         return NULL;
     }
