@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
