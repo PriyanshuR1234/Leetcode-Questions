@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
