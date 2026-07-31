@@ -10,10 +10,10 @@ public:
         m['D']=500;
         m['M']=1000;
         //// only for increasing performance;
-        // if(s.length()==1)
-        // {
-        //     return m[s[0]];
-        // }
+        if(s.length()==1)
+        {
+            return m[s[0]];
+        }
         int sum=0;
         for(int i=1;i<=s.size();i++)
         {
