@@ -9,6 +9,10 @@ public:
         m['C']=100;
         m['D']=500;
         m['M']=1000;
+        if(s.length()==1)
+        {
+            return m[s[0]];
+        }
         int sum=0;
         for(int i=1;i<=s.size();i++)
         {
