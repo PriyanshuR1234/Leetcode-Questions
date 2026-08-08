@@ -11,18 +11,56 @@
  */
 class Solution {
 public:
-    void triverse(TreeNode * temp,vector<int> & arr)
-    {
-        if(temp==NULL) return;
+    // void triverse(TreeNode * temp,vector<int> & arr)
+    // {
+    //     if(temp==NULL) return;
         
-        triverse(temp->left,arr);
-        arr.push_back(temp->val);
-        triverse(temp->right,arr);
-    }
+    //     triverse(temp->left,arr);
+    //     arr.push_back(temp->val);
+    //     triverse(temp->right,arr);
+    // }
     vector<int> inorderTraversal(TreeNode* root) {
-        TreeNode * temp=root;
-        vector<int>arr;
-        triverse(root,arr);
-        return arr;
+    //     TreeNode * temp=root;
+    //     vector<int>arr;
+    //     triverse(root,arr);
+    //     return arr;
+    // }
+
+
+    //Morris Inorder Traversal
+
+    vector<int>ans;
+    TreeNode * curr=root;
+    while(curr!=NULL)
+    {
+        if(curr->left==NULL)
+        {
+            ans.push_back(curr->val);
+            curr=curr->right;
+        }
+        else
+        {
+            TreeNode * prev=curr->left;
+            while(prev->right && prev->right!=curr)
+            {
+                prev=prev->right;
+            }
+            if(prev->right==NULL ) 
+            {
+                prev->right=curr;
+                curr=curr->left;
+            }
+            else
+            {
+                prev->right=NULL;
+                ans.push_back(curr->val);
+                curr=curr->right;
+            }
+        }
+        
     }
+    return ans;
+    }
+
+    
 };
