@@ -52,10 +52,36 @@ public:
 
             //above one only pass 52 test case 
         }
+        int n=coins.size();
+        vector<int>prev(amount+1,0),curr(amount+1,0);
         vector<vector<int>>dp(coins.size(), vector<int>(amount + 1, -1));;
         int count=0;
-        count=coincount(coins,amount,coins.size()-1,dp);
-       if(count>=1e9)return -1;
-       return count;
+
+        for(int t=0;t<=amount;t++)
+        {
+            if(t%coins[0]==0)dp[0][t]=t/coins[0];
+            else
+            {
+                dp[0][t]=1e9;
+            }
+        }
+
+        for(int ind=1;ind<coins.size();ind++)
+        {
+            for(int t=0;t<=amount;t++)
+            {
+                int nottake=0+dp[ind-1][t];
+                int take=INT_MAX;
+                if(coins[ind]<=t)
+                {
+                    take=1+dp[ind][t-coins[ind]];
+                }
+                dp[ind][t]=min(take,nottake);
+            }
+        }
+        int ans=dp[n-1][amount];
+        if(ans>=1e9)return -1;
+
+        return ans;
     }
 };
