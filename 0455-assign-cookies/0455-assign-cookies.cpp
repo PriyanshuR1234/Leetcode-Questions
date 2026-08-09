@@ -11,13 +11,10 @@ public:
         {
             if(g[pg]<=s[sg])
             {
-                sg++;
                 pg++;
             }
-            else if(g[pg]>s[sg])
-            {
-                sg++;
-            }
+            sg++;
+            
         }
         count=pg;
         return count;
