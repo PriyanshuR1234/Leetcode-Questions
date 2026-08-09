@@ -20,38 +20,12 @@ public:
         return dp[ind][amount]=min(take,nottake);
     }
     int coinChange(vector<int>& coins, int amount) {
-        {
-            // if(amount==0)return 0;
-            // int count=0;
-            // sort(coins.begin(),coins.end());
-            // int n=coins.size()-1;
-            // while(amount>0 && n>=0)
-            // {
-            //     if(amount>=coins[n])
-            //     {
-            //         //int temp=temp-coins[n];
-            //         amount=amount-coins[n];
-            //         cout<<amount<<" ";
-            //         count++;
-                    
-            //     }
-            //     else{
-            //         n--;
-            //     }
-                
-            //     //amount=amount/coins[n];
-                
-            // }
-            // cout<<count;
-            // if(amount==0)
-            // {
-            //     return count;
-            // }
-            // return -1;
-
-
-            //above one only pass 52 test case 
-        }
+        
+        //first recursion
+        
+        //dp with memorization
+        //dp with tabulation
+        //dp with space optimization only last row and column   
         int n=coins.size();
         vector<int>prev(amount+1,0),curr(amount+1,0);
         
