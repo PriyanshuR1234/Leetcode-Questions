@@ -6,7 +6,7 @@ public:
 
         int pg=0;
         int sg=0;
-        int count=0;
+        
         while(pg<g.size() && sg<s.size())
         {
             if(g[pg]<=s[sg])
@@ -16,8 +16,7 @@ public:
             sg++;
             
         }
-        count=pg;
-        return count;
+        return pg;
 
     }
 };
