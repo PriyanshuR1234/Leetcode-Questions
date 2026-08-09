@@ -54,15 +54,15 @@ public:
         }
         int n=coins.size();
         vector<int>prev(amount+1,0),curr(amount+1,0);
-        vector<vector<int>>dp(coins.size(), vector<int>(amount + 1, -1));;
+        
         int count=0;
 
         for(int t=0;t<=amount;t++)
         {
-            if(t%coins[0]==0)dp[0][t]=t/coins[0];
+            if(t%coins[0]==0)prev[t]=t/coins[0];
             else
             {
-                dp[0][t]=1e9;
+                prev[t]=1e9;
             }
         }
 
@@ -70,16 +70,17 @@ public:
         {
             for(int t=0;t<=amount;t++)
             {
-                int nottake=0+dp[ind-1][t];
+                int nottake=0+prev[t];
                 int take=INT_MAX;
                 if(coins[ind]<=t)
                 {
-                    take=1+dp[ind][t-coins[ind]];
+                    take=1+curr[t-coins[ind]];
                 }
-                dp[ind][t]=min(take,nottake);
+                curr[t]=min(take,nottake);
             }
+            prev=curr;
         }
-        int ans=dp[n-1][amount];
+        int ans=prev[amount];
         if(ans>=1e9)return -1;
 
         return ans;
