@@ -1,28 +1,28 @@
 class Solution {
 public:
 
-    int coincount(vector<int>&coins,int amount,int ind,vector<vector<int>>&dp)
-    {
-        if(ind==0)
-        {
-            if(amount%coins[ind]==0)return amount/coins[ind];
-            else
-            return 1e9;
-        }
-        if(dp[ind][amount]!=-1)return dp[ind][amount];
+    // int coincount(vector<int>&coins,int amount,int ind,vector<vector<int>>&dp)
+    // {
+    //     if(ind==0)
+    //     {
+    //         if(amount%coins[ind]==0)return amount/coins[ind];
+    //         else
+    //         return 1e9;
+    //     }
+    //     if(dp[ind][amount]!=-1)return dp[ind][amount];
 
-        int nottake=0+coincount(coins,amount,ind-1,dp);
-        int take=INT_MAX;
-        if(coins[ind]<=amount)
-        {
-            take=1+coincount(coins,amount-coins[ind],ind,dp);
-        }
-        return dp[ind][amount]=min(take,nottake);
-    }
+    //     int nottake=0+coincount(coins,amount,ind-1,dp);
+    //     int take=INT_MAX;
+    //     if(coins[ind]<=amount)
+    //     {
+    //         take=1+coincount(coins,amount-coins[ind],ind,dp);
+    //     }
+    //     return dp[ind][amount]=min(take,nottake);
+    // }
     int coinChange(vector<int>& coins, int amount) {
         
         //first recursion
-        
+
         //dp with memorization
         //dp with tabulation
         //dp with space optimization only last row and column   
