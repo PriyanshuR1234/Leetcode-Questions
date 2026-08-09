@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
@@ -236,4 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
