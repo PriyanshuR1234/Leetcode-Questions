@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0476-number-complement) |
 ## Math
 |  |
 | ------- |
