@@ -6,12 +6,12 @@ public:
         {
             m[c]++;
         }
-        int count=0;
-        for(char c:s)
+        
+        for(int i=0;i<s.size();i++)
         {
-            count++;
-            if(m[c]==1)
-            return count-1;
+           
+            if(m[s[i]]==1)
+            return i;
         }
         return -1;
     }
