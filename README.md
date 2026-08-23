@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1903-largest-odd-number-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
