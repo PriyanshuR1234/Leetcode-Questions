@@ -1,23 +1,23 @@
 class Solution {
 public:
-    void recurse(int ind,vector<int>&nums,vector<vector<int>>& ans)
+    void findPer(int ind, vector<int>&nums,vector<vector<int>>&ans)
     {
         if(ind==nums.size())
         {
             ans.push_back(nums);
-            return ;
+            return;
         }
 
         for(int i=ind;i<nums.size();i++)
         {
             swap(nums[ind],nums[i]);
-            recurse(ind+1,nums,ans);
+            findPer(ind+1,nums,ans);
             swap(nums[ind],nums[i]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
-        recurse(0,nums,ans);
+        vector<vector<int>>ans;
+        findPer(0,nums,ans);
         return ans;
     }
 };
