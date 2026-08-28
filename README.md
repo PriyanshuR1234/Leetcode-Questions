@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
