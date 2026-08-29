@@ -14,25 +14,18 @@ public:
         if(head==NULL || head->next==NULL)return head;
 
         ListNode* dummy = new ListNode(0, head);
-        ListNode* prev = dummy;
-        ListNode * curr=head;
+        ListNode * curr=dummy;
         
-        while(curr!=NULL && curr->next!=NULL)
+        while(curr->next!=NULL && curr->next->next!=NULL)
         {
-            ListNode * ne=head;
-            ListNode * nepair=curr->next->next;
-            ne=curr->next;
+            ListNode * first=curr->next;
+            ListNode * second=first->next;
 
+            first->next=second->next;
+            second->next=first;
+            curr->next=second;
 
-
-           
-            ne->next=curr;
-            curr->next=nepair;
-            prev->next=ne;
-            
-
-            prev=curr;
-            curr=nepair;
+            curr=first;
         }
         return dummy->next;
 
