@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 ## Database
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
