@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -394,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
