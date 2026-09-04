@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Knapsack Problem
 |  |
 | ------- |
