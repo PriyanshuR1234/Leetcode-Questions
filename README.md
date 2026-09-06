@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 ## Combinatorics
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0242-valid-anagram) |
