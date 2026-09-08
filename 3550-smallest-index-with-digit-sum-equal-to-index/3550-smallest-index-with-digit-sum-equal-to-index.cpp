@@ -11,7 +11,9 @@ public:
         return sum;
     }
     int smallestIndex(vector<int>& nums) {
-        for(int i=0;i<nums.size();i++)
+
+        int limit = min((int)nums.size(), 28); 
+        for(int i=0;i<limit;i++)
         {
             if(digitsum(nums[i])==i)
             {
