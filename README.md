@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Dynamic Programming
 |  |
 | ------- |
