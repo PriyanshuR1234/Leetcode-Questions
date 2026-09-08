@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0493-reverse-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
