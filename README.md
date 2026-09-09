@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
