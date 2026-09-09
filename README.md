@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
