@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
