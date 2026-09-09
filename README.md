@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2578-split-with-minimum-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2578-split-with-minimum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
