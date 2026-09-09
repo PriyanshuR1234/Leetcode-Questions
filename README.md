@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2578-split-with-minimum-sum) |
 ## Bit Manipulation
