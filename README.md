@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
