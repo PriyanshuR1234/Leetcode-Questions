@@ -4,7 +4,7 @@ public:
         int n=mat.size();
         int m=mat[0].size();
         vector<vector<int>>ans(m+n+1);
-        vector<int>arr;
+        //vector<int>arr;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
@@ -23,10 +23,10 @@ public:
             {
                 if(i!=0)
                 ans[0].push_back(ans[i][j]);
-               arr.push_back(ans[i][j]);
-               cout<<ans[i][j];
+               //arr.push_back(ans[i][j]);
+               //cout<<ans[i][j];
             }
-            cout<<endl;
+            //cout<<endl;
             
         }
 
