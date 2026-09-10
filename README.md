@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
