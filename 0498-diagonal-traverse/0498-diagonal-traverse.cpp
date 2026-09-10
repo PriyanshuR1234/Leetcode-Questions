@@ -21,13 +21,16 @@ public:
 
             for(int j=0;j<ans[i].size();j++)
             {
+                if(i!=0)
+                ans[0].push_back(ans[i][j]);
                arr.push_back(ans[i][j]);
                cout<<ans[i][j];
             }
             cout<<endl;
+            
         }
 
-        return arr;
+        return ans[0];
 
 
         
