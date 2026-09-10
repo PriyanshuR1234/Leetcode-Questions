@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
