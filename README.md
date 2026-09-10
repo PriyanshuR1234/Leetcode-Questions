@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1424-diagonal-traverse-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1470-shuffle-the-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1424-diagonal-traverse-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2578-split-with-minimum-sum) |
 ## Bit Manipulation
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1424-diagonal-traverse-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1424-diagonal-traverse-ii) |
 ## Bucket Sort
 |  |
 | ------- |
