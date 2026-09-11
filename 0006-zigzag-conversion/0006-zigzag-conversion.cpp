@@ -31,15 +31,16 @@ public:
                 }
             }
         }
-        string ss="";
+        //string ss="";
         for(int i=0;i<numRows;i++)
         {
-            ss+=ans[i];
+            if(i>0)
+            ans[0]+=ans[i];
             // for(int j=0;j<ans[i].size();j++)
             // {
             //     ss+=ans[i][j];
             // }
         }
-        return ss;
+        return ans[0];
     }
 };
