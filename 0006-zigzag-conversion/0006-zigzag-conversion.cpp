@@ -2,13 +2,16 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         if(numRows==1)return s;
-        vector<vector<char>>ans(numRows);
+        //vector<vector<char>>ans(numRows);
+
+        vector<string>ans(numRows);
         
         int row=0;
         int turn=0;
         for(int i=0;i<s.size();i++)
         {
-            ans[row].push_back(s[i]);
+            //ans[row].push_back(s[i]);
+            ans[row]+=s[i];
             if(turn==0)
             {
                 row++;
@@ -31,10 +34,11 @@ public:
         string ss="";
         for(int i=0;i<numRows;i++)
         {
-            for(int j=0;j<ans[i].size();j++)
-            {
-                ss+=ans[i][j];
-            }
+            ss+=ans[i];
+            // for(int j=0;j<ans[i].size();j++)
+            // {
+            //     ss+=ans[i][j];
+            // }
         }
         return ss;
     }
