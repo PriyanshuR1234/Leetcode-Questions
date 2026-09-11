@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1207-unique-number-of-occurrences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1424-diagonal-traverse-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1207-unique-number-of-occurrences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
