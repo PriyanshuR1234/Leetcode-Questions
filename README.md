@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0728-self-dividing-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -542,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
