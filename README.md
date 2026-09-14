@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0090-subsets-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0661-image-smoother) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
