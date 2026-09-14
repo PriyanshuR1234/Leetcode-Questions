@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 ## Algorithm X
 |  |
 | ------- |
