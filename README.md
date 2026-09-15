@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0796-rotate-string) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 ## Algorithm X
 |  |
