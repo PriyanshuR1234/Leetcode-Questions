@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
