@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 ## Math
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0728-self-dividing-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
