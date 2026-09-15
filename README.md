@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
