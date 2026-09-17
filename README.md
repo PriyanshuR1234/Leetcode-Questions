@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1652-defuse-the-bomb](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
+| [1652-defuse-the-bomb](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 ## Algorithm X
 |  |
 | ------- |
