@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3206-alternating-groups-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3206-alternating-groups-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3206-alternating-groups-i) |
 ## Algorithm X
 |  |
 | ------- |
