@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1773-count-items-matching-a-rule](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1424-diagonal-traverse-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2578-split-with-minimum-sum) |
 ## Bit Manipulation
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Algorithm X
 |  |
 | ------- |
