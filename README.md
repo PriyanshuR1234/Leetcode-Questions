@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3206-alternating-groups-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3206-alternating-groups-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
 ## Monotonic Stack
 |  |
