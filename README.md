@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
