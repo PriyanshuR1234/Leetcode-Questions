@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -627,4 +628,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
