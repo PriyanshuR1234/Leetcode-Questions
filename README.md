@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2578-split-with-minimum-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2578-split-with-minimum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3871-count-commas-in-range-ii) |
