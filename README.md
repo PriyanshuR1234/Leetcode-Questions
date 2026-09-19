@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
