@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
