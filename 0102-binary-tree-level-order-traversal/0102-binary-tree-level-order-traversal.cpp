@@ -11,26 +11,22 @@
  */
 class Solution {
 public:
+    void recurse(TreeNode * root, int level, vector<vector<int>>&ans)
+    {
+        if(root==NULL)return;
+        if(level==ans.size())
+        ans.push_back(vector<int>());
+
+        
+        ans[level].push_back(root->val);
+
+        recurse(root->left,level+1,ans);
+        recurse(root->right,level+1,ans);
+    }
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>>ans;
-        if(root==NULL)return ans;
-
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty())
-        {
-            int size=q.size();
-            vector<int>level;
-            for(int i=0;i<size;i++)
-            {
-                TreeNode * node =q.front();
-                q.pop();
-                if(node->left!=NULL )q.push(node->left);
-                if(node->right!=NULL)q.push(node->right);
-                level.push_back(node->val);
-            }
-            ans.push_back(level);
-        }
+        recurse(root,0,ans);
         return ans;
+        
     }
 };
