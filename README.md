@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -663,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
