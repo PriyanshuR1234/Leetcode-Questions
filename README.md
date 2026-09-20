@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
