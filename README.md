@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Counting
 |  |
 | ------- |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [3248-snake-in-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3248-snake-in-matrix) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
