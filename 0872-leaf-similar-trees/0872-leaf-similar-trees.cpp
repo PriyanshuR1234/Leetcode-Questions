@@ -25,7 +25,7 @@ public:
         }
         else
         {
-            recurse(root->left,ans,flag);
+            recurse(root->right,ans,flag);
             if (root->left == nullptr && root->right == nullptr) {
                 
                 if (!ans.empty() && ans.back() == root->val) {
@@ -35,13 +35,13 @@ public:
                     ans.push_back(-1); 
                 }
             }
-            recurse(root->right,ans,flag);
+            recurse(root->left,ans,flag);
         }
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
         vector<int>ans;
         recurse(root1,ans,true);
-        reverse(ans.begin(),ans.end());
+        //reverse(ans.begin(),ans.end());
         recurse(root2,ans,false);
         return (ans.empty());
     }
