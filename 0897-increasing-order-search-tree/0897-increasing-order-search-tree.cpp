@@ -11,24 +11,28 @@
  */
 class Solution {
 public:
-    void recurse(TreeNode * root, TreeNode * &newroot)
+    void recurse(TreeNode * root, TreeNode * &prev)
     {
         if(root==NULL)return;
 
-        recurse(root->left,newroot);
+        recurse(root->left,prev);
 
-        newroot->right=new TreeNode(root->val);
-        newroot=newroot->right;
-        cout<<root->val;
+        // newroot->right=new TreeNode(root->val);
+        // newroot=newroot->right;
+        // cout<<root->val;
 
-        recurse(root->right,newroot);
+        root->left=NULL;
+        prev->right=root;
+        prev=root;
+
+        recurse(root->right,prev);
 
         
     }
     TreeNode* increasingBST(TreeNode* root) {
         TreeNode* dummy = new TreeNode(0);
-        TreeNode* newroot = dummy;   
-        recurse(root,newroot);
+        TreeNode* prev = dummy;   
+        recurse(root,prev);
         
         return dummy->right;
         
