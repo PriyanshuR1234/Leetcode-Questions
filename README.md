@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Database
