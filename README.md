@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
@@ -727,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
