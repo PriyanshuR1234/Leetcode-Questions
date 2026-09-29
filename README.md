@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0867-transpose-matrix) |
