@@ -9,11 +9,11 @@ public:
             {
                 curr++;
 
-                ans.push_back(curr%2);
+                ans.push_back(curr%2==1?0:1);
             }
             else
             {
-                ans.push_back(curr%2);
+                ans.push_back(curr%2==1?0:1);
                 curr--;
             }
         }
