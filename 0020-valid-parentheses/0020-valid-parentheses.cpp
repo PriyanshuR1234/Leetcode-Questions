@@ -4,31 +4,22 @@ public:
         stack<char>stk;
         for(char c:s)
         {
-            if(c=='('||c=='['|| c=='{')
+            if(c=='(' || c=='{' || c=='[')
             {
                 stk.push(c);
             }
-            else 
+            else
             {
-                if(stk.empty())return false;
+                if(stk.empty()) return false;
 
-
-                 if(stk.top()=='(' && c==')')
-                {
-                    stk.pop();
-                }
-                else if(stk.top()=='{' && c=='}')
-                {
-                    stk.pop();
-                }
-                else if(stk.top()=='[' && c==']')
-                {
-                    stk.pop();
-                }
-                else
-                {
-                    return false;
-                }
+                char t=stk.top();
+                if(t=='(' && c==')'|| 
+                    t=='{' && c=='}'||
+                    t=='[' && c==']')
+                    {
+                        stk.pop();
+                    }
+                else return false;
             }
         }
         return stk.empty();
