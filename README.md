@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0796-rotate-string) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
