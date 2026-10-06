@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
