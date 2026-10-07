@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
