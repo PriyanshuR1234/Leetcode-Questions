@@ -1,26 +1,27 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-       string res="";
-       int count=0;
-       for(char c:s)
-       {
-        if(c=='(')
+        string ans;
+        int open=0;
+        for(char c:s)
         {
-            // If it's not the outermost opening parenthesis, add it
-                if (count > 0) {
-                    res += c;
-                }
-                count++;
-        }
-        else{
-            count--;
-            if(count>0)
+            if(c=='(')
             {
-                res+=c;
+                if(open>0)
+                {
+                    ans.push_back('(');
+                }
+                open++;
+            }
+            else
+            {
+                open--;
+                if(open>0)
+                {
+                    ans.push_back(')');
+                }
             }
         }
-       } 
-       return res;
+        return ans;
     }
 };
