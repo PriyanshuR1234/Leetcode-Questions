@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyanshuR1234/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
